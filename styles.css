@@ -1,0 +1,24 @@
+body {
+  background-color: gainsboro;
+}
+
+h1 {
+  text-align: center;
+}
+
+.timer {
+  font-size: 0;
+}
+
+.field {
+  display: inline-flex;
+  flex-direction: column;
+  width: 25%;
+
+  font-size: 50px;
+}
+
+.value,
+.label {
+  text-align: center;
+}
